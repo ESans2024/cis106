@@ -1,4 +1,5 @@
-# Lab 3 
+# Lab 3
+
 ---
 Student: Erik Santos
 semester: Fall 24
