@@ -42,11 +42,11 @@ Virtualization is a technology that allows you to create multiple "virtual" vers
 A virtual machine (VM) is a software-based emulation of a physical computer. It runs an operating system and applications just like a real computer, but it exists inside another physical computer. VMs are created using virtualization software (like VMware or VirtualBox), which allows you to run multiple operating systems on the same hardware. For example, you can run Windows on a computer that has Linux installed. Each VM is isolated, so problems in one don't affect the others. Virtual machines are useful for testing new software, running different operating systems, or running multiple applications without needing extra physical computers. 
 
 ### What is virtualbox?
-![logo virtualbox](Virtualbox_logo.png)<br>
+![logo virtualbox](virtualbox.png)<br>
 VirtualBox is a free, open-source software that allows you to run multiple virtual machines (VMs) on your computer. It works by creating a "virtual" computer inside your physical computer, enabling you to run different operating systems at the same time. For example, you can run Windows on a computer that has Linux installed, or vice versa. VirtualBox is useful for testing software, trying new operating systems, or running programs that only work on certain platforms, without needing to have separate physical machines. It's simple to use and is compatible with many operating systems like Linux, Windows, macOS, and others. It also supports features like snapshots, which let you save the state of a VM and restore it later. 
 
 ### What is Ubuntu Server?
-![ubuntu logo](ubuntu_logo.jpg)<br>
+![ubuntu logo](ubuntu.png)<br>
 Ubuntu Server is a version of the Ubuntu Linux operating system specifically designed for use on servers. It is free and open-source, meaning anyone can download and use it. Unlike desktop versions of Ubuntu, the server version doesn’t come with a graphical user interface (GUI), making it more efficient for handling server tasks. Ubuntu Server is popular because it’s easy to install, configure, and maintain. It is commonly used to host websites, databases, or cloud applications. It also has strong community support and regular security updates. 
 
 ### What is a firewall?
